@@ -33,7 +33,7 @@ import com.promeritage.annotation.demo.module.vo.form.EmployeeVO;
 
 @RestController
 @Scope(value = "prototype")
-@RequestMapping(value = "/SpringAnnotationConfigDemo")
+@RequestMapping(value = "/demo")
 public class SpringAnnotationConfigDemoController extends BaseController {
 
 	private Logger log = Logger.getLogger(this.getClass());
