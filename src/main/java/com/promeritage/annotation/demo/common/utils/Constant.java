@@ -13,8 +13,8 @@ public class Constant {
 	 * Jsp path
 	 */
 
-	public final static String SYSTEM_INDEX = "promeritageShtest/index";
-	public final static String SYSTEM_LOGIN = "promeritageShtest/login";
+	public final static String SYSTEM_INDEX = "demo/index";
+	public final static String SYSTEM_LOGIN = "demo/login";
 
 	/*
 	 * Date Pattern
